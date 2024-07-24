@@ -1,5 +1,6 @@
 #  Optimization-of-Multi-modal-Transportation
-a project on supply chain management and multi-modal transportation cost minimization using mathematical programming.
+a project on supply chain management and multi-modal transportation cost minimization using mathematical programming solution devloped for Woodpecker's Hackathon
+## team name bytes
 
 ## Catalogue
 
